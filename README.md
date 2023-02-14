@@ -1,7 +1,7 @@
 # Welcome to my Portfolio!👋
 
 [![GitHub followers](https://img.shields.io/github/followers/JoshB2chE.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JoshB2chE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin&colorB=555)](https://linkedin.com/in/joshuabertucci)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin)](https://linkedin.com/in/joshuabertucci)
 
 Welcome to my GitHub portfolio! I am a software engineer with a huge passion for technology and web development. My goal is to use my skills and knowledge to create smart, innovative solutions that make a positive influence on other people's lives.
 
