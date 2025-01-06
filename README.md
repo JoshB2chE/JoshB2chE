@@ -1,4 +1,4 @@
-# Welcome to my Portfolio!👋
+# Welcome to my Portfolio! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/JoshB2chE.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JoshB2chE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin)](https://linkedin.com/in/joshuabertucci)
